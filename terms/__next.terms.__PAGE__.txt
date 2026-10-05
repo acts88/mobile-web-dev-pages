@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[33310,["/mobile-web-dev-pages/_next/static/chunks/0-4_kow~l_ylp.js","/mobile-web-dev-pages/_next/static/chunks/0dnf0187xegrd.js","/mobile-web-dev-pages/_next/static/chunks/0uffo0h47gtc2.js","/mobile-web-dev-pages/_next/static/chunks/0zu3am009s7rg.js","/mobile-web-dev-pages/_next/static/chunks/07ohw0ew8ulsi.js"],"default"]
+3:I[90522,["/mobile-web-dev-pages/_next/static/chunks/0-4_kow~l_ylp.js","/mobile-web-dev-pages/_next/static/chunks/0dnf0187xegrd.js","/mobile-web-dev-pages/_next/static/chunks/0uffo0h47gtc2.js","/mobile-web-dev-pages/_next/static/chunks/0zu3am009s7rg.js","/mobile-web-dev-pages/_next/static/chunks/07ohw0ew8ulsi.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"document":{"path":"/terms","title":"이용약관","effectiveDate":"","body":""}}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"uMYXUVvFg66Brwp3fb4HQ"}
+5:null
